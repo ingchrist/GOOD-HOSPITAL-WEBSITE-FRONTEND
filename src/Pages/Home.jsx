@@ -9,7 +9,7 @@ const Home = () => {
     <>
       <Hero
         title={
-          "Welcome to Presbyterian Paediatric Eye Hospital Limbe-Acha Limbe | Your Trusted Healthcare Provider"
+          "Welcome to Presbyterian Paediatric Eye Hospital Limbe-Acha Limbe, Your Trusted Healthcare Provider."
         }
         imageUrl={"/hero.png"}
       />
